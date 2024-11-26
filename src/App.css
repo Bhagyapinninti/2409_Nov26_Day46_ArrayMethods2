@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+button{
+  font-size: 2rem;
+    background-color: cyan;
+    border: 0px;
+    border-radius: 10px;
+    margin: 15px;
+    box-shadow: 10px 10px 15px darkcyan;
+    color: darkslateblue;
+    text-shadow: 0px 0px 10px lightgreen;
+  }
+  body{
+    background-color: darkslategray;
+    padding: 80px;
+  
+  }
+  
+  h1{
+    color: white;
+    font-size: 3rem;
+    border: 0px;
+    text-shadow: 0px 0px 10px #e2097c;
+  }
+  button:hover{
+    transform: scale(1.2);
+  }
+  
